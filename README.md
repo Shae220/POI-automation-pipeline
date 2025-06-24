@@ -1,5 +1,8 @@
 # Automated POI Generation Pipeline (GIS + NLP)
 
+📦 Note: Data migration is in progress. Selected visuals, scripts, and documentation will be added once files are retrieved from the original environment.
+
+
 ##  Overview
 This project was completed during a one-year internship focused on building a pipeline for the automated generation of Point of Interest (POI) data. Leveraging GIS techniques, SQL, and natural language processing, the system aimed to significantly enhance geospatial data production efficiency within the company.
 
